@@ -1,0 +1,11 @@
+.imgRemeras{
+    width: 250px;
+    height: auto;
+}
+
+.cardBox{
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    text-align-last: center;
+    background-color: inherit;
+}

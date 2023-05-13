@@ -1,0 +1,51 @@
+:root{
+    --colorLetra: #000000;
+    --fondoCards: #a3a3a3e8;
+}
+
+.header-top{
+    width: 100%;
+    height: auto;
+    display: flex;
+    text-decoration: none;
+    justify-content: right;
+    border-top: solid 40px var(--colorLetra);
+}
+
+.ulNav{
+    padding-right: 20px;
+    list-style: none;
+    color: var(--fondoCards);
+}
+
+
+
+.icono{
+    width: 60px;
+    height: auto;
+    top: -10px;
+    margin: 0;
+}
+
+.divContainer{
+    justify-self: center;
+}
+
+.container-fluid{
+    display: grid!important;
+    grid-template-columns: 1fr 5fr 2fr !important;
+    border-bottom: 2px solid var(--fondoCards)
+}
+
+.container-fluid button{
+    color: var(--colorLetra);
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    place-self: center;
+}
+
+.d-flex{
+    width: 195px;
+    
+}

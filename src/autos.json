@@ -1,0 +1,55 @@
+[{
+  "id": 1,
+  "marca": "le coq sportif ",
+  "modelo": "Qatar-2022",
+  "pais": "Jamaica",
+  "estado": "Nuevo",
+  "valor": 11000,
+  "img": "https://e00-marca.uecdn.es/multimedia/graficos/futbol/2022/camisetas-mundial-qatar-2022/img/camisetas/pq/camerun01.png"
+},
+{
+  "id": 2,
+  "marca": "Adidas",
+  "modelo": "Qatar-2022",
+  "pais": "Alemania",
+  "estado": "Nuevo",
+  "valor": 19000,
+  "img": "https://e00-marca.uecdn.es/multimedia/graficos/futbol/2022/camisetas-mundial-qatar-2022/img/camisetas/pq/alemania01.png"
+},
+{
+  "id": 3,
+  "marca": "Adidas",
+  "modelo": "Qatar-2022",
+  "pais": "Belgica",
+  "estado": "Nuevo",
+  "valor": 16000,
+  "img": "https://e00-marca.uecdn.es/multimedia/graficos/futbol/2022/camisetas-mundial-qatar-2022/img/camisetas/pq/belgica01.png"
+},
+{
+  "id": 4,
+  "marca": "Adidas",
+  "modelo": "Qatar-2022",
+  "pais": "Argentina",
+  "estado": "Nuevo",
+  "valor": 20000,
+  "img": "https://cdn.shopify.com/s/files/1/0631/8889/3955/products/afa22_740x_959d2de8-762c-460c-9aba-97b2154657d2_720x_2_1024x.png?v=1670681934"
+},
+{
+  "id": 5,
+  "marca": "Adidas",
+  "modelo": "2023-Titular",
+  "pais": "Boca Juniors",
+  "estado": "Nuevo",
+  "valor": 18000,
+  "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/312/744/products/efgfdgfkjhjl1-a718b94e74979fa6ad16645536452887-640-0.webp"
+},
+{
+  "id": 6,
+  "marca": "Umbro",
+  "modelo": "2023-Titular",
+  "pais": "Argentinos Juniors",
+  "estado": "Nuevo",
+  "valor": 12000,
+  "img": "https://www.pesmaster.com/efootball-2022/graphics/kits/uni20250624.png"
+}
+]
